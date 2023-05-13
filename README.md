@@ -1,4 +1,5 @@
-# compThinking
+# Description: 
+Benchmarking sorting algorithms for different array sizes.
 
 ## Repository Contents: 
 - A Python file for benchmarking sorting algorithms
